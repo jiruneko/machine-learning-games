@@ -2,4 +2,4 @@
 
 【The easiest way】
 
-Please upload and run on google.colaboratory
+Please try it on GPU PC
