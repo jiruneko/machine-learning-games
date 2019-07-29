@@ -1,5 +1,6 @@
 # machine-learning-games
 
-【The easiest way】
+【Playing against AI】
 
-Please try it on GPU PC
+If you want to play the game with AI,
+please execute "python human.play_py" after importing the module.
