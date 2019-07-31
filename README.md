@@ -1,6 +1,7 @@
 # machine-learning-games
 
 【Framework used】
+
 ・Python 3.6.7
 
 ・tensorflow 1.13.1
@@ -16,6 +17,7 @@
 ・h５py 2.8.0
 
 ・gym 0.10.11
+
 
 【Playing against AI】
 
