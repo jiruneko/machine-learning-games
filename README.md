@@ -3,7 +3,8 @@
 【Framework used】
 
 ・Python 3.6.7
-※3.7 is not possible
+
+※3.7 is not possible!
 
 ・tensorflow 1.13.1
 
