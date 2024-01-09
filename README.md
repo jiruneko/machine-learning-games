@@ -2,7 +2,7 @@
 
 【Framework used】
 
-・Python 3.6.7
+・Python 3.6
 
 ※3.7 is not possible!
 
